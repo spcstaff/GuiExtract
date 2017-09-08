@@ -1,0 +1,10 @@
+This script aims to extract files from alldata.csv for specific county and state
+
+Instruction:
+1. run GuiExtract.py
+2. type in the county name and state name
+3. click extract
+4. done
+
+
+Attention:
